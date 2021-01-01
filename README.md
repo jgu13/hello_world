@@ -1,3 +1,3 @@
 # hello_world
 New repository
-First commit
+First commit for learning
